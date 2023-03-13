@@ -4,7 +4,7 @@ I'm Arbnor Canolli!
 I am a Fullstack Developer with :one: year of experience. 
 </br>
 I am passionate about building responsive, user-friendly applications using the latest web technologies. </br>
-My primary languages are  C#, JavaScript, React.js, React Native, CSS, HTML, jQuery, and .NET.
+My primary languages are  C#, JavaScript, React.js, CSS, HTML, jQuery, and .NET.
 
 
 <strong>Languages:</strong> C#, JavaScript, Typescript, HTML, CSS
@@ -24,7 +24,7 @@ My primary languages are  C#, JavaScript, React.js, React Native, CSS, HTML, jQu
   </a>
   </div>
 
-<strong> Frameworks/Libraries:</strong> React.js, Redux, React Native, jQuery, .NET Core, Bootstrap, Tailwind CSS
+<strong> Frameworks/Libraries:</strong> React.js, Redux, jQuery, .NET Core, Bootstrap, Tailwind CSS
 <div style="display:flex;">
   <a href="https://reactjs.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="max-width: 100%;"> </a>
   <a href="https://redux.js.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" style="max-width: 100%;"> </a>
@@ -52,11 +52,9 @@ My primary languages are  C#, JavaScript, React.js, React Native, CSS, HTML, jQu
   </a>
   </div>
   
-<strong> Databases:</strong> MySQL, MongoDB
+<strong> Databases:</strong> MySQL
 <div style="display:flex;">
   <a href="https://www.mysql.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="max-width: 100%;"> </a>
-<a href="https://www.mongodb.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="max-width: 100%;"> 
-  </a>
   </div>
   </br>
  <strong><p>🔥 GitHub Stats:</p></strong> 
