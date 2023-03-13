@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I'm Arbnor Canolli!
-I am a Fullstack Developer with :one: year of experience. 
+Hi! I'm Arbnor, a full-stack developer with one year of experience. I specialize in developing web applications using tools listed below.
 </br>
 I am passionate about building responsive, user-friendly applications using the latest web technologies. </br>
 My primary languages are  C#, JavaScript, React.js, CSS, HTML, jQuery, and .NET.
