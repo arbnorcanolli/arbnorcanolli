@@ -1,7 +1,7 @@
 <strong>A Full-stack developer</strong>. I specialize in developing web applications using tools listed below.
 </br>
 I am passionate about building responsive, user-friendly applications using the latest web technologies. </br>
-My primary languages are  C#, JavaScript, React.js, CSS, HTML, jQuery, and .NET.
+My primary languages are  C#, JavaScript, Vue, CSS, HTML, jQuery, and .NET.
 
 
 <strong>Languages:</strong> C#, JavaScript, Typescript, HTML, CSS
